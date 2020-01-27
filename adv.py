@@ -5,7 +5,7 @@ from world import World
 import random
 from ast import literal_eval
 
-from utils import bfs,unexplored_directions,find_unexplored_room,find_room_direction
+from util import bfs,unexplored_directions,find_unexplored_room,find_room_direction
 
 # Load world
 world = World()
